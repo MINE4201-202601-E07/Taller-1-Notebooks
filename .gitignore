@@ -1,0 +1,3 @@
+*.zip
+/movielens-20m-dataset
+.DS_Store
