@@ -1,4 +1,5 @@
 *.zip
 /movielens-20m-dataset
 /artifacts
+/filtered-data
 .DS_Store
